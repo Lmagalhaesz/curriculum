@@ -7,7 +7,7 @@
 <img src="[![Lmagalhaesz's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Lmagalhaesz&theme=dracula&hide_border=false)](https://camo.githubusercontent.com/45c89202f14063b54523615a09590ac02b63eb9f5b7abadcd5b859322f85aee3/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d4c6d6167616c686165737a267468656d653d64726163756c6126686964655f626f726465723d66616c7365)" width="400"/>
 
 
-<img src="![Lmagalhaesz's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lmagalhaesz&theme=dracula&show_icons=true&hide_border=false&layout=compact)
+<img src="[![Lmagalhaesz's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lmagalhaesz&theme=dracula&show_icons=true&hide_border=false&layout=compact)](https://camo.githubusercontent.com/45c89202f14063b54523615a09590ac02b63eb9f5b7abadcd5b859322f85aee3/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d4c6d6167616c686165737a267468656d653d64726163756c6126686964655f626f726465723d66616c7365)
 " width="400"/>
 
 
